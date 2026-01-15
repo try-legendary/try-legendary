@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sk. Rakinul Haque</h1>
-<h3 align="center">A passionat CSE student from Bangladesh</h3>
+# 💫 About Me:
+🔭 I’m currently working on:Java,Python,Discrete Math<br>👯 I’m looking to collaborate on:projects and Compitative programming<br>🤝 I’m looking for help with:Discrete math<br>🌱 I’m currently learning:Discrete Math<br>💬 Ask me about:Anything<br>⚡ Fun fact:I think I am suffering from both suprior and infrerior complex
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=try-legendary&label=Profile%20views&color=0e75b6&style=flat" alt="try-legendary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=try-legendary" alt="try-legendary" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trylegendary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakin__.__) 
 
-- 🌱 I’m currently learning **Python,Discrete Math,Java**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=try-legendary&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=try-legendary&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=try-legendary&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🤝 I’m looking for help with **projects and competative programming**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=try-legendary&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **Use My Facebook link**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I think I am suffering from inferior and suprior complex**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=try-legendary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/trylegendary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trylegendary" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=try-legendary&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=try-legendary&show_icons=true&locale=en&layout=compact" alt="try-legendary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=try-legendary&show_icons=true&locale=en" alt="try-legendary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=try-legendary&" alt="try-legendary" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
