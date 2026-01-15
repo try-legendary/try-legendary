@@ -1,14 +1,11 @@
 <div align="center">
   
-<!-- Animated Header with Custom Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20Rakin's%20Universe%20🚀&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity%20|%20Innovation%20Meets%20Passion&descAlignY=55&descAlign=50"/>
-
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Hi+👋+I'm+Rakin;Aspiring+Software+Developer+💻;Competitive+Programmer+🏆;Problem+Solver+%26+Innovator+🧩;Building+the+Future+One+Line+at+a+Time+📚;Let's+Create+Something+Amazing!+✨" alt="Typing SVG" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20Rakin's%20Universe%20🚀&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descAlign=50"/>
 
 <br/>
 
-<!-- Profile Badges with Glow Effect -->
+<!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=try-legendary&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/try-legendary?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 <img src="https://img.shields.io/github/stars/try-legendary?style=for-the-badge&color=yellow" alt="Stars"/>
@@ -16,13 +13,13 @@
 <br/><br/>
 
 <!-- Animated Developer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
+<!-- Animated Wave Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
@@ -101,7 +98,7 @@ motto: "Code with passion, debug with patience"
 
 <div align="center">
 
-<!-- GitHub Stats Card with Fire Theme -->
+<!-- GitHub Stats Card -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=try-legendary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
 <!-- GitHub Streak Stats -->
@@ -115,12 +112,11 @@ motto: "Code with passion, debug with patience"
 
 </div>
 
-<!-- Additional Stats Row -->
+<!-- Trophies -->
 <div align="center">
   
 <br/>
 
-<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=try-legendary&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 
 </div>
@@ -159,55 +155,6 @@ motto: "Code with passion, debug with patience"
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 **Current Focus & Goals**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Rakin's Journey))
-    Competitive Programming
-      Master DSA
-      Contest Participation
-      Problem Solving
-    Software Development
-      Full Stack Development
-      System Design
-      Clean Code Practices
-    Learning Path
-      Discrete Mathematics
-      Advanced Algorithms
-      Design Patterns
-    Future Goals
-      Internships
-      Open Source Contributions
-      Building Projects
-```
-
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 **Coding Activity**
-
-<div align="center">
-
-<!-- GitHub Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=try-legendary&theme=radical" width="800" />
-
-<!-- Code Time Badge -->
-<br/><br/>
-
-![](https://img.shields.io/badge/Code%20Time-999%20hrs-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Problems%20Solved-500%2B-brightgreen?style=for-the-badge)
-![](https://img.shields.io/badge/Contest%20Rating-Specialist-orange?style=for-the-badge)
-
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🤝 **Connect With Me**
 
 <div align="center">
@@ -236,29 +183,6 @@ mindmap
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 **Random Dev Quote**
-
-<div align="center">
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default" />
-
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎮 **Fun Stuff**
-
-<div align="center">
-
-<!-- Joke Card -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="600" />
-
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ### 💭 **"Talk is cheap. Show me the code." - Linus Torvalds**
@@ -275,7 +199,6 @@ mindmap
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 
-<!-- Visitor Counter -->
 <br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/try-legendary/count.svg)
