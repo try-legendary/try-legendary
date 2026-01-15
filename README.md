@@ -1,3 +1,9 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZtYjB1YzRtbDF5ZnI1dDF0eDFwNG5zdmJrbTljODRmbDN0dTBoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
+
+<h1 align="center">Hi, I'm Rakin 👋</h1>
+<h3 align="center">Aspiring Software Developer | Competitive Programming Enthusiast</h3>
+
+---
 # 💫 About Me:
 🔭 I’m currently working on:Java,Python,Discrete Math<br>👯 I’m looking to collaborate on:projects and Compitative programming<br>🤝 I’m looking for help with:Discrete math<br>🌱 I’m currently learning:Discrete Math<br>💬 Ask me about:Anything<br>⚡ Fun fact:I think I am suffering from both suprior and infrerior complex
 
