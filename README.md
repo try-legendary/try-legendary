@@ -1,33 +1,58 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZtYjB1YzRtbDF5ZnI1dDF0eDFwNG5zdmJrbTljODRmbDN0dTBoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
+<div align="center">
+  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20Rakin's%20Universe%20🚀&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descAlign=50"/>
 
-<h1 align="center">Hi, I'm Rakin 👋</h1>
-<h3 align="center">Aspiring Software Developer | Competitive Programming Enthusiast</h3>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+👋+I'm+Rakin;Aspiring+Software+Developer+💻;Competitive+Programmer+🏆;Problem+Solver+🧩;Always+Learning+New+Things+📚" alt="Typing SVG" />
+</a>
 
----
-# 💫 About Me:
-🔭 I’m currently working on:Java,Python,Discrete Math<br>👯 I’m looking to collaborate on:projects and Compitative programming<br>🤝 I’m looking for help with:Discrete math<br>🌱 I’m currently learning:Discrete Math<br>💬 Ask me about:Anything<br>⚡ Fun fact:I think I am suffering from both suprior and infrerior complex
+<br/>
 
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=try-legendary&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/try-legendary?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://img.shields.io/github/stars/try-legendary?style=for-the-badge&color=yellow" alt="Stars"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trylegendary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakin__.__) 
+<br/><br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=try-legendary&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=try-legendary&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=try-legendary&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=try-legendary&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=try-legendary&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Animated Wave Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-[![](https://visitcount.itsvg.in/api?id=try-legendary&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<br/>
+
+```yaml
+name: Rakin
+role: Student & Aspiring Developer
+location: Bangladesh 🇧🇩
+focus: Software Development & Competitive Programming
+
+current_status:
+  - 🔭 Working on: Java, Python, Problem Solving
+  - 🌱 Learning: Discrete Mathematics, DSA
+  - 👯 Open to: Collaboration on CP & Projects
+  - 🤝 Seeking help with: Discrete Mathematics
+  - 💬 Ask me about: Anything tech-related
+  - ⚡ Fun fact: Suffering from both superior 
+                 and inferior complex 🤯
+
+interests:
+  - Competitive Programming 🏆
+  - Software Development 💻
+  - Problem Solving 🧩
+  - Data Structures & Algorithms 📊
+  - Gaming 🎮
