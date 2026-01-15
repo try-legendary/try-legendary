@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20Rakin's%20Universe%20🚀&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity%20|%20Innovation%20Meets%20Passion&descAlignY=55&descAlign=50"/>
 
 <!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Hi+👋+I'm+Rakin;Aspiring+Software+Developer+💻;Competitive+Programmer+🏆;Problem+Solver+%26+Innovator+🧩;Building+the+Future+One+Line+at+a+Time+📚;Let's+Create+Something+Amazing!+✨" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Hi+👋+I'm+Rakin;Aspiring+Software+Developer+💻;Competitive+Programmer+🏆;Problem+Solver+%26+Innovator+🧩;Building+the+Future+One+Line+at+a+Time+📚;Let's+Create+Something+Amazing!+✨" alt="Typing SVG" />
 
 <br/>
 
@@ -135,16 +133,10 @@ motto: "Code with passion, debug with patience"
 <div align="center">
 
 <!-- CP Platform Badges -->
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
-
-<br/><br/>
-
-<!-- LeetCode Stats (if you have a profile) -->
-<img src="https://leetcard.jacoblin.cool/try-legendary?theme=dark&font=Ubuntu&ext=activity" width="500" />
+<a href="https://leetcode.com/try-legendary"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/try_legendary"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/try_legendary"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/try_legendary"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
 </div>
 
@@ -201,8 +193,8 @@ mindmap
 
 <div align="center">
 
-<!-- WakaTime Stats (if you use WakaTime) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@trylegendary&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" width="500" />
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=try-legendary&theme=radical" width="800" />
 
 <!-- Code Time Badge -->
 <br/><br/>
@@ -260,12 +252,7 @@ mindmap
 <div align="center">
 
 <!-- Joke Card -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-<br/><br/>
-
-<!-- Meme -->
-<img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme"/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="600" />
 
 </div>
 
